@@ -1,0 +1,62 @@
+baseURL = "https://leroyshirto.co.uk/"
+languageCode = "en-gb"
+title = "Leroy Shirto"
+theme = "PaperMod"
+paginate = 10
+
+[params]
+  description = "Software developer. Personal portfolio and blog."
+  author = "Leroy Shirto"
+  showReadingTime = true
+  showShareButtons = false
+  showPostNavLinks = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  [params.homeInfoParams]
+    Title = "Hey, I'm Leroy"
+    Content = "Software developer. Welcome to my corner of the internet."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/leroyshirto"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/leroy-shirto-74b58a25"
+
+[params.cover]
+  hiddenInList = false
+  hiddenInSingle = false
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menus.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+
+[[menus.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+
+[[menus.main]]
+  name = "Archive"
+  url = "/archive/"
+  weight = 3
+
+[[menus.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 4
