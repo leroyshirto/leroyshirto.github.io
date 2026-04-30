@@ -5,7 +5,6 @@ date: 2009-06-29T20:01:06+00:00
 tags:
   - Games
   - Windows
-
 ---
 High-score game produced for a second-year University assignment as part of a team, using C# and XNA. The player controls a virus in the bloodstream, through keyboard input or an Xbox 360 gamepad. The player absorbs differently-coloured red-blood cells for points, matching the colour of the last absorbed cell. The virus is under attack from differently-coloured white blood cells, which will home in on the virus unless it absorbs a red-blood cell of matching colour, enabling it to absorb them. The difficulty increases based on the score.
 

@@ -6,7 +6,6 @@ tags:
   - 3D Animation And Rendering
   - Games
   - Windows
-
 ---
 3D game produced for a second-year University assignment as part of a team, programmed using C# and XNA. Controllable with the keyboard or an Xbox 360 gamepad. A King is killed a Queen is made seriously ill and her baby Prince is cursed in an assassination attempt by a trusted confidant, who takes the throne and has them exiled from the kingdom. Years later, in her last moments, the former Queen tells her son of his previous identity and their betrayal. She also explains his curse to him, which slowly degrades his physical condition but forces him to survive through any danger. The Prince sets out to seek vengeance against the traitor for what he did to his family.
 

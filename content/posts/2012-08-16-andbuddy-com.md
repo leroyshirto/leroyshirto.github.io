@@ -5,7 +5,6 @@ date: 2012-08-16T17:07:44+00:00
 tags:
   - Android
   - Web Design
-
 ---
 AndBuddy is a hosting solution I created to provide free file hosting for Android App and Rom developers. The aim of the site is to give developers a free way to distribute their Roms and Apps without having to pay bandwith charges. I also created an Android app which allowed you to download files directly to your device but it has not been distributed.
 

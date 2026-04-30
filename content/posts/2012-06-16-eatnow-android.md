@@ -5,7 +5,6 @@ date: 2012-06-16T16:59:19+00:00
 tags:
   - Android
   - Misc
-
 ---
 EatNow is a little project built for a friend that is into body building. He needed an application to help remind him when his next meal was. The app is a simple reminder app that allows the user to set interviled reminders. They can then postpone these reminders if they are not able to eat at that current time. The App was built using the Android SDK and written in Java and is currently available on the Google Play Store <a title="EatNow on Google Play App Store." href="https://play.google.com/store/apps/details?id=com.blackhousestudios.eatnow&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5ibGFja2hvdXNlc3R1ZGlvcy5lYXRub3ciXQ.." target="_blank">here</a>.
 

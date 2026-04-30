@@ -6,7 +6,6 @@ tags:
   - 3D Animation And Rendering
   - Games
   - Windows
-
 ---
 Side-scrolling game produced for a third-year University assignment as part of a team, programmed using C# and the <a href="http://www.neoaxisgroup.com/" target="_blank">NeoAxis Engine</a>. Controllable with the keyboard or an Xbox 360 gamepad. Set in a steam-punk era, an assassin attempts to murder the emperor of a kingdom, and the emperor’s personal guard is tasked with tracking her down. But he will eventually learn that the emperor is not the benevolent ruler he considered him to be…
 

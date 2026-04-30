@@ -1,0 +1,21 @@
+#!/bin/bash
+# Pre-commit hook: lint Hugo content before allowing commit
+# Install with: cp .husky/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+
+echo "🔍 Running Hugo build check..."
+
+# Quick build to .tmp_hugo (avoiding polluting public/)
+if ! hugo --destination .tmp_hugo --quiet --gc 2>/tmp/hugo_errors.log; then
+    echo "❌ Hugo build failed!"
+    echo ""
+    echo "Build errors:"
+    cat /tmp/hugo_errors.log
+    echo ""
+    echo "Commit aborted. Fix the errors above and try again."
+    rm -rf .tmp_hugo
+    exit 1
+fi
+
+rm -rf .tmp_hugo
+echo "✅ Hugo build check passed."
+exit 0

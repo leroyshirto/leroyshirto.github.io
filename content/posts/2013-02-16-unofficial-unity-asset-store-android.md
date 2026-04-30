@@ -6,7 +6,6 @@ tags:
   - Android
   - Games
   - Web Design
-
 ---
 Back when you were not able to access the Unity Asset store from out side the client, I built this Android app that would spoof the user agent of the client and allow you to browse the store on your mobile device. The app is built using the Android SDK and is written in java. For an app description or to download it, you can give it a go on the Google Play store <a title="Unofficial Unity Asset Store on Google Play" href="https://play.google.com/store/apps/details?id=com.blackhousesgames.unofficial.unity3d.asset.store&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5ibGFja2hvdXNlc2dhbWVzLnVub2ZmaWNpYWwudW5pdHkzZC5hc3NldC5zdG9yZSJd" target="_blank">here</a>.
 

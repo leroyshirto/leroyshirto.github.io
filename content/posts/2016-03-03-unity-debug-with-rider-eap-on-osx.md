@@ -4,7 +4,6 @@ author: Leroy Shirto
 date: 2016-03-03T00:08:53+00:00
 tags:
   - Misc
-
 ---
 So Project Rider recently went EAP and I was eager to get it running on my Mac to see if it would be a viable replacement to Monodevelop or VSCode for Unity Development. Rider does not currently have Unity Debuging out of the box, [VSCode][1] is able to so I did some digging and was able to get Rider to connect to Unity and debug. It was easier than I thought it would be to get debugging in Rider. By creating a new debug configuration in Rider and setting the the port Unity was listening on I am able to set breakpoints and debug my Unity Projects.
 

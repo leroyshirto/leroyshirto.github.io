@@ -5,7 +5,6 @@ date: 2010-07-31T20:01:12+00:00
 tags:
   - Android
   - Games
-
 ---
 Produced in 2010 as part of an independent start up called Extreme Lime Games, using Java and <a href="http://www.andengine.org/" target="_blank">AndEngine</a>. Artsy Dodger for Android retains the gameplay of a Flash game created as a university project by J Perrin. The game features perspective 3D rendered graphics and a global high score leaderboard (implemented with <a href="http://www.andoop.com/ahighscore" target="_blank">aHighScore</a>). The project took 3 months which allowed us to learn the Android SDK and optimise the game for the Android operating system.
 

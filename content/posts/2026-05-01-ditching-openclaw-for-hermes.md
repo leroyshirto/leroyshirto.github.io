@@ -51,7 +51,6 @@ The $10 plan covers DeepSeek V4 Flash, GLM-5, MiniMax-M2.5, Kimi-K2.5, and other
 Hermes on OpenCode Go is the first setup that feels like it's actually *designed* for daily driver agent use. It's not the flashiest combination, but it works. My Telegram group chats get proper responses, my cron jobs run their security audits, and I'm not waking up to a credit card bill that looks like a phone number.
 
 If you're running an AI agent locally and burning through credits, I'd seriously consider this stack. The migration took about 20 minutes and the cost savings are immediate.
-
 ---
 
 *This post was drafted with assistance from my own agent, which is running on the exact setup described above. Meta enough for you?*
