@@ -7,7 +7,6 @@ tags:
   - DevOps
   - Self-Hosting
 summary: "Why I migrated from OpenClaw to Hermes Agent as my local AI assistant, and how I'm powering it on OpenCode Go's $10/month plan without blowing through limits."
-
 ---
 
 I've been running an AI agent locally for a while now — OpenClaw was doing the job, but honestly it felt like wearing shoes that were one size too small. You can make it work, but you're always aware it doesn't quite fit.
