@@ -1,7 +1,7 @@
 ---
 title: "Ditching OpenClaw for Hermes Agent (and Why I'm Running It on $10/mo)"
 author: Leroy Shirto
-date: 2026-05-01T21:00:00+00:00
+date: 2026-04-30T23:00:00+00:00
 tags:
   - AI
   - DevOps
