@@ -28,7 +28,7 @@ The big one for me though is the philosophy. Hermes is designed to be **resource
 
 Running a local agent sounds cheap until you realise the models cost money. My previous setup was burning through OpenRouter credits faster than I'd like to admit. Nice models, but I wasn't getting great value for what I was actually doing — a lot of file reads, terminal commands, and context management that doesn't need a 405B-parameter model to answer.
 
-So I looked at [OpenCode Go](https://opencode.ai/zen/go/v1) — a $10/month subscription that gives you access to 14 different models with transparent rate limits. No per-token pricing, no surprise bills, just a request count you can actually budget against.
+So I looked at [OpenCode Go](https://opencode.ai/go) — a $10/month subscription that gives you access to 14 different models with transparent rate limits. No per-token pricing, no surprise bills, just a request count you can actually budget against.
 
 ## My Setup
 
